@@ -33,7 +33,7 @@ outputs:
     description: The error and warning messages for each one of the analyzed commits
 runs:
   using: docker
-  image: docker://aperdomob/commitlint-github-action:3.2.0
+  image: docker://aperdomob/commitlint-github-action:3.2.1
 branding:
   icon: check-square
   color: blue
